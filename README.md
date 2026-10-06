@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=SourcePawn+plugin+developer;TypeScript+%26+C%23+enthusiast;I+build+Discord+bots;Turning+coffee+into+code" alt="Typing SVG" />
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20views&color=8b5cf6&style=for-the-badge" alt="views"/>
+<img src="https://komarev.com/ghpvc/?username=Narseq&label=Profile%20views&color=8b5cf6&style=for-the-badge" alt="views"/>
 
 </div>
 
@@ -24,9 +24,22 @@ const menelu = {
 };
 ```
 
-- 🎮 Writing plugins for Source engine game servers
+- 🎮 Writing plugins for Source engine game servers (CS:GO with SourcePawn, CS2 with CounterStrikeSharp in C#)
 - 🤖 Building Discord bots with **discord.py** and **discord.js**
+- 🌐 Running the **Fragujemy** server community and its web hub
 - 🧩 Learning and shipping something new every week
+
+## 🚀 What I'm working on
+
+| Project | Description | Stack |
+|---|---|---|
+| 🎯 **FragHub Quests** | CS2 quest system: pulls quests from the FragHub API, tracks kills / headshots / bomb events live and rewards EXP | C# · CounterStrikeSharp · .NET 8 |
+| 🏟️ **FragArena** | Arena mode for CS2 servers | C# · CounterStrikeSharp |
+| 🗺️ **OnlyMirage** | Mirage-only server mode for CS2 | C# · CounterStrikeSharp |
+| 📈 **TrackerGraczy** | Player tracker for CS2 servers | C# |
+| 🌐 **FragHub** | Web hub for the community: accounts, quests, addons | PHP · JavaScript |
+| 🤖 **Discord bots** | Community bots for the Fragujemy Discord | discord.py · discord.js |
+| 💣 **CS:GO plugin pack** | VIP menu, quests system, autobalance, report, prop hunt, super powers, RageQuit and more | SourcePawn |
 
 ## 🛠️ Tech stack
 
@@ -48,25 +61,25 @@ const menelu = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical&hide_border=true" alt="top langs"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Narseq&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narseq&layout=compact&theme=radical&hide_border=true" alt="top langs"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=radical&hide_border=true" alt="streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Narseq&theme=radical&hide_border=true" alt="streak"/>
 
 </div>
 
 ## 🐍 Contribution snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-snake-dark.svg" alt="snake"/>
+  <img src="https://raw.githubusercontent.com/Narseq/Narseq/output/github-snake-dark.svg" alt="snake"/>
 </div>
 
 ## 📫 Find me
 
 <div align="center">
 
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_DISCORD_ID)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/USERNAME)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/588379880886894614)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Narseq)
 
 </div>
 
