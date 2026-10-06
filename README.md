@@ -68,12 +68,6 @@ const menelu = {
 
 </div>
 
-## 🐍 Contribution snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Narseq/Narseq/output/github-snake-dark.svg" alt="snake"/>
-</div>
-
 ## 📫 Find me
 
 <div align="center">
