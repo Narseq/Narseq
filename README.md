@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=220&section=header&text=Hey%2C%20I'm%20Menelu&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Plugin%20%26%20Bot%20Developer&descAlignY=58&descSize=20" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=220&section=header&text=Hey%2C%20I'm%20Narseq&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Plugin%20%26%20Bot%20Developer&descAlignY=58&descSize=20" width="100%" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=SourcePawn+plugin+developer;TypeScript+%26+C%23+enthusiast;I+build+Discord+bots;Turning+coffee+into+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=600&lines=Minecraft+%26+CS2+%2F+CS%3AGO+plugins;Websites+and+web+apps;Discord+bots;Turning+coffee+into+code" alt="Typing SVG" />
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=Narseq&label=Profile%20views&color=8b5cf6&style=for-the-badge" alt="views"/>
@@ -12,46 +12,24 @@
 
 ---
 
-## 👾 About me
+## 👋 About me
 
-```ts
-const menelu = {
-  role: "Developer",
-  languages: ["SourcePawn", "TypeScript", "C#", "Python", "JavaScript"],
-  frameworks: ["discord.py", "discord.js"],
-  focus: ["Game server plugins", "Discord bots", "Automation"],
-  funFact: "I debug in production. Sometimes on purpose.",
-};
-```
+I'm a developer who spends most of the time making things for games and communities. I work on:
 
-- 🎮 Writing plugins for Source engine game servers (CS:GO with SourcePawn, CS2 with CounterStrikeSharp in C#)
-- 🤖 Building Discord bots with **discord.py** and **discord.js**
-- 🌐 Running the **Fragujemy** server community and its web hub
-- 🧩 Learning and shipping something new every week
-
-## 🚀 What I'm working on
-
-| Project | Description | Stack |
-|---|---|---|
-| 🎯 **FragHub Quests** | CS2 quest system: pulls quests from the FragHub API, tracks kills / headshots / bomb events live and rewards EXP | C# · CounterStrikeSharp · .NET 8 |
-| 🏟️ **FragArena** | Arena mode for CS2 servers | C# · CounterStrikeSharp |
-| 🗺️ **OnlyMirage** | Mirage-only server mode for CS2 | C# · CounterStrikeSharp |
-| 📈 **TrackerGraczy** | Player tracker for CS2 servers | C# |
-| 🌐 **FragHub** | Web hub for the community: accounts, quests, addons | PHP · JavaScript |
-| 🤖 **Discord bots** | Community bots for the Fragujemy Discord | discord.py · discord.js |
-| 💣 **CS:GO plugin pack** | VIP menu, quests system, autobalance, report, prop hunt, super powers, RageQuit and more | SourcePawn |
+- 🎮 **Plugins for Minecraft** servers
+- 🔫 **Plugins for CS2 and CS:GO** servers
+- 🌐 **Websites** in JavaScript, HTML, PHP, React and more
+- 🤖 **Discord bots** in C#, discord.js and discord.py
 
 ## 🛠️ Tech stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,cs,py,nodejs,discord,git,github,vscode&theme=dark" alt="skills"/>
+<img src="https://skillicons.dev/icons?i=java,cs,ts,js,py,html,css,php,react,nodejs,discord,git,github,vscode&theme=dark" alt="skills"/>
 
 <br/><br/>
 
 ![SourcePawn](https://img.shields.io/badge/SourcePawn-F69220?style=for-the-badge&logo=valve&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![discord.py](https://img.shields.io/badge/discord.py-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![discord.js](https://img.shields.io/badge/discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
@@ -63,8 +41,6 @@ const menelu = {
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=Narseq&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="stats"/>
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Narseq&layout=compact&theme=radical&hide_border=true" alt="top langs"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Narseq&theme=radical&hide_border=true" alt="streak"/>
 
 </div>
 
